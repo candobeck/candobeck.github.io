@@ -12,5 +12,3 @@ _site/
 .jekyll-metadata
 .jekyll
 .jekyll-cache
-Gemfile
-Gemfile.lock
